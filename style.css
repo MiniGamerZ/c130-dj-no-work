@@ -1,0 +1,24 @@
+.heading{
+    font-size:20px;
+}
+.div_speed_img{
+    width: 150px;
+    margin:15px;
+    float:left;
+}
+.div_volume_img{
+    width: 150px;
+    margin:10px;
+    margin-top:0px;
+    float:right;
+}
+#speed{
+    float:left;
+    margin-top:150px;
+    margin-left:-130px;
+}
+#vol{
+    float:right;
+    margin-top:140px;
+    margin-right:-130px;
+}
